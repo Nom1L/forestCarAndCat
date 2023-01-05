@@ -16,7 +16,7 @@ export default class CorouselBox extends Component {
 					/>
 					<Carousel.Caption>
 						<h3>Forest One</h3>
-						<p>Этот лес оранжевый и это не мудрое дерево</p>
+						<p>Этот лес Смерти ВХАХАХАХААХ и это не мудрое дерево</p>
 					</Carousel.Caption>
 				</Carousel.Item>
 				<Carousel.Item>
