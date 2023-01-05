@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/forestCarAndCat/static/css/main.be8d38c7.css",
+    "main.js": "/forestCarAndCat/static/js/main.f6653c17.js",
+    "static/js/787.874cb24d.chunk.js": "/forestCarAndCat/static/js/787.874cb24d.chunk.js",
+    "static/media/forestOne.jpeg": "/forestCarAndCat/static/media/forestOne.ee64a289a1d2860a7587.jpeg",
+    "static/media/forestTwo.jpeg": "/forestCarAndCat/static/media/forestTwo.5f59504c953a473d12de.jpeg",
+    "static/media/carporshe.jpeg": "/forestCarAndCat/static/media/carporshe.5add71483d7939fc522c.jpeg",
+    "static/media/carbugati.jpeg": "/forestCarAndCat/static/media/carbugati.2f94f63f58450713319c.jpeg",
+    "static/media/carskyline.jpeg": "/forestCarAndCat/static/media/carskyline.9db38322704f85b01748.jpeg",
+    "static/media/forestThree.jpeg": "/forestCarAndCat/static/media/forestThree.74b4553dbdb2d05338ec.jpeg",
+    "static/media/carbmv.jpeg": "/forestCarAndCat/static/media/carbmv.18b974e1e74f822eba43.jpeg",
+    "static/media/cat.jpeg": "/forestCarAndCat/static/media/cat.9c9558a05b8aeb7d7ec7.jpeg",
+    "static/media/logo.svg": "/forestCarAndCat/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/forestCarAndCat/index.html",
+    "main.be8d38c7.css.map": "/forestCarAndCat/static/css/main.be8d38c7.css.map",
+    "main.f6653c17.js.map": "/forestCarAndCat/static/js/main.f6653c17.js.map",
+    "787.874cb24d.chunk.js.map": "/forestCarAndCat/static/js/787.874cb24d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be8d38c7.css",
+    "static/js/main.f6653c17.js"
+  ]
+}
